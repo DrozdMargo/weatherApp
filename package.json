@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asinc-basics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrozdMargo/weatherApp.git"
+  },
+  "author": "MargoDrozd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrozdMargo/weatherApp/issues"
+  },
+  "homepage": "https://github.com/DrozdMargo/weatherApp#readme",
+  "dependencies": {
+    "request": "^2.79.0",
+    "yargs": "^6.5.0"
+  }
+}
